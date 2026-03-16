@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Marat 👋
 
-<!--
-**marat-kabirov/marat-kabirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. Web Engineering student at TU Chemnitz, Germany.  
+Full-stack developer with focus on Node.js, TypeScript and React.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+**Backend:** Node.js · TypeScript · Express · PostgreSQL · AWS (EC2/RDS/S3) · Docker  
+**Frontend:** React · Next.js · JavaScript  
+**Other:** Python · C# · Java · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **[BotLabX](https://github.com/marat-kabirov)** — Team project, Node.js/TypeScript/PostgreSQL/AWS, deployed on AWS
+- **[Travelling Salesman Simulator](https://github.com/marat-kabirov/Program_for_solving_travelsalesman_problem)** — TSP algorithms (Branch&Bound, Nearest Neighbor, Metropolis) in C#
+- **Chemnitz Cultural Map** — Full-stack React/Node.js/MongoDB app
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/marat-kabirov-850139337/
+- Email: kabirovmarat913@gmail.com
