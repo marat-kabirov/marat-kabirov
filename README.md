@@ -15,5 +15,5 @@ Full-stack developer with focus on Node.js, TypeScript and React.
 - **[Todo App](https://github.com/marat-kabirov/todo-app)** — React app with localStorage and filters · [Live Demo](https://profound-tulumba-920ce0.netlify.app/)
 
 ## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/marat-kabirov-850139337/
+- LinkedIn: https://www.linkedin.com/in/marat-kabirov/
 - Email: kabirovmarat913@gmail.com
