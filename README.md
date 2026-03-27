@@ -13,6 +13,7 @@ Full-stack developer with focus on Node.js, TypeScript and React.
 - **[Travelling Salesman Simulator](https://github.com/marat-kabirov/Program_for_solving_travelsalesman_problem)** — TSP algorithms (Branch&Bound, Nearest Neighbor, Metropolis) in C#
 - **[Chemnitz Cultural Map](https://github.com/marat-kabirov/chemnitz-cultural-map)** — Full-stack React/Node.js/PostgreSQL app · [Live Demo](https://chemnitz-cultural-map-mk.netlify.app)
 - **[Todo App](https://github.com/marat-kabirov/todo-app)** — React app with localStorage and filters · [Live Demo](https://profound-tulumba-920ce0.netlify.app/)
+- **[smart-housing-finder](https://github.com/marat-kabirov/smart-housing-finder)**Smart Housing Finder — Fullstack housing aggregation platform with AI cover letter generation
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/marat-kabirov/
