@@ -1,7 +1,7 @@
 # Hi, I'm Marat 👋
 
 M.Sc. Web Engineering student at TU Chemnitz, Germany.  
-Full-stack developer with focus on Node.js, TypeScript and React.
+Backend & Data Systems Engineer
 
 ## 🛠️ Tech Stack
 **Backend:** Node.js · TypeScript · Express · PostgreSQL · AWS (EC2/RDS/S3) · Docker  
